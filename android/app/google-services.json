@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904771094651",
+    "project_id": "crudappeva",
+    "storage_bucket": "crudappeva.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904771094651:android:0d715c4439c793eebc3ade",
+        "android_client_info": {
+          "package_name": "com.ceduc.crudapp_eva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtwnvvOLxS0T4Amj3EOrdgBpYKlXZP5pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
